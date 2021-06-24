@@ -8,6 +8,7 @@ O projeto consiste em criar um CRUD utilizando Bootstrap, VueJS e PHP.
 
 Para a criação do projeto, foram utilizados os seguintes requisitos:
 
+- Node v13.11.0
 - Composer 2.0.7
 - Bootstrap v4.6.0
 - VueJS 2.6.14
