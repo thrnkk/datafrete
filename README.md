@@ -29,7 +29,8 @@ Para a criação do projeto, foram utilizados os seguintes requisitos:
 1. Entre na pasta raiz do projeto.
 2. Execute o comando `composer install` (certifique-se de que não ocorreu nenhum erro referente à antivirus ou ao Windows Search Indexer, se ocorrer, repetir o comando).
 3. Execute o comando `npm install` para instalar as dependências.
-4. Execute o comando `php artisan migrate` para criar as tabelas na database.
+4. Execute o comando `npm run dev` para atualizar os arquivos.
+5. Execute o comando `php artisan migrate` para criar as tabelas na database.
 6. Execute o comando `php artisan serve` para iniciar o seu projeto.
 
 Obs.: Para visualizar todas as rotas disponíveis, utilize `php artisan route:list`.
